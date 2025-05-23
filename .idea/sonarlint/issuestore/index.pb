@@ -5,3 +5,5 @@ S
 #contracts/utility-veriiication.clar,4/b/4b3141d5630b883ac37a17b5938ffbc669c21eb3
 T
 $contracts/consumer-registration.clar,7/8/787fa7c864581ff74fe3ad2e4cb1fde06968a3ec
+S
+#tests/consumer-registration.test.ts,7/4/742ddea58ae2ef1a8fde664b22a454ab505f5112
